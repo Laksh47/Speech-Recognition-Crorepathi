@@ -1,0 +1,30 @@
+C:\Users\gowthamraj\Documents\Visual Studio 2012\Projects\voice\voice\bin\Debug\voice.exe.config
+C:\Users\gowthamraj\Documents\Visual Studio 2012\Projects\voice\voice\obj\Debug\voice.exe
+C:\Users\gowthamraj\Documents\Visual Studio 2012\Projects\voice\voice\obj\Debug\voice.pdb
+C:\Users\gowthamraj\Documents\Visual Studio 2012\Projects\voice\voice\bin\Debug\voice.exe
+C:\Users\gowthamraj\Documents\Visual Studio 2012\Projects\voice\voice\bin\Debug\voice.pdb
+C:\Users\gowthamraj\Documents\Visual Studio 2012\Projects\voice\voice\obj\Debug\voice.csprojResolveAssemblyReference.cache
+C:\Users\gowthamraj\Documents\Visual Studio 2012\Projects\voice\voice\obj\Debug\voice.Form1.resources
+C:\Users\gowthamraj\Documents\Visual Studio 2012\Projects\voice\voice\obj\Debug\voice.Form2.resources
+C:\Users\gowthamraj\Documents\Visual Studio 2012\Projects\voice\voice\obj\Debug\voice.Form3.resources
+C:\Users\gowthamraj\Documents\Visual Studio 2012\Projects\voice\voice\obj\Debug\voice.Form4.resources
+C:\Users\gowthamraj\Documents\Visual Studio 2012\Projects\voice\voice\obj\Debug\voice.Form5.resources
+C:\Users\gowthamraj\Documents\Visual Studio 2012\Projects\voice\voice\obj\Debug\voice.Properties.Resources.resources
+C:\Users\gowthamraj\Documents\Visual Studio 2012\Projects\voice\voice\obj\Debug\voice.csproj.GenerateResource.Cache
+C:\Users\gowthamraj\Documents\Visual Studio 2012\Projects\voice\voice\obj\Debug\voice.Form6.resources
+C:\Users\gowthamraj\Documents\Visual Studio 2012\Projects\voice\voice\obj\Debug\voice.Form7.resources
+E:\studies\voice\voice\bin\Debug\voice.exe.config
+E:\studies\voice\voice\obj\Debug\voice.exe
+E:\studies\voice\voice\obj\Debug\voice.pdb
+E:\studies\voice\voice\bin\Debug\voice.exe
+E:\studies\voice\voice\bin\Debug\voice.pdb
+E:\studies\voice\voice\obj\Debug\voice.csprojResolveAssemblyReference.cache
+E:\studies\voice\voice\obj\Debug\voice.Form1.resources
+E:\studies\voice\voice\obj\Debug\voice.Form2.resources
+E:\studies\voice\voice\obj\Debug\voice.Form3.resources
+E:\studies\voice\voice\obj\Debug\voice.Form4.resources
+E:\studies\voice\voice\obj\Debug\voice.Form5.resources
+E:\studies\voice\voice\obj\Debug\voice.Form6.resources
+E:\studies\voice\voice\obj\Debug\voice.Form7.resources
+E:\studies\voice\voice\obj\Debug\voice.Properties.Resources.resources
+E:\studies\voice\voice\obj\Debug\voice.csproj.GenerateResource.Cache
